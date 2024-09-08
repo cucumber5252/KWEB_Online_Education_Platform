@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "professor1",
+      "password": "password",
+      "name": "Professor One",
+      "studentId": null,
+      "role": "professor"
+    },
+    {
+      "id": 2,
+      "username": "professor2",
+      "password": "password",
+      "name": "Professor Two",
+      "studentId": null,
+      "role": "professor"
+    },
+    {
+      "id": 3,
+      "username": "student1",
+      "password": "password",
+      "name": "Student One",
+      "studentId": "20230001",
+      "role": "student"
+    },
+    {
+      "id": 4,
+      "username": "student2",
+      "password": "password",
+      "name": "Student Two",
+      "studentId": "20230002",
+      "role": "student"
+    },
+    {
+      "id": 5,
+      "username": "student3",
+      "password": "password",
+      "name": "Student Three",
+      "studentId": "20230003",
+      "role": "student"
+    },
+    {
+      "id": 6,
+      "username": "student4",
+      "password": "password",
+      "name": "Student Four",
+      "studentId": "20230004",
+      "role": "student"
+    },
+    {
+      "id": 7,
+      "username": "student5",
+      "password": "password",
+      "name": "Student Five",
+      "studentId": "20230005",
+      "role": "student"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Computer Science",
+      "professor": 1,
+      "students": [3, 4, 5]
+    },
+    {
+      "id": 2,
+      "title": "Advanced Mathematics",
+      "professor": 1,
+      "students": [3, 6]
+    },
+    {
+      "id": 3,
+      "title": "Physics Fundamentals",
+      "professor": 2,
+      "students": [4, 5, 7]
+    },
+    {
+      "id": 4,
+      "title": "Modern Literature",
+      "professor": 2,
+      "students": [6, 7]
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to Computer Science",
+      "content": "Welcome to the course. Let's have a great semester!",
+      "createdAt": "2024-09-08T10:00:00.000Z",
+      "course": 1
+    },
+    {
+      "id": 2,
+      "title": "Mathematics Course Introduction",
+      "content": "This course covers advanced topics in mathematics.",
+      "createdAt": "2024-09-08T11:00:00.000Z",
+      "course": 2
+    },
+    {
+      "id": 3,
+      "title": "Physics Fundamentals: Start Here",
+      "content": "This course will explore the basics of physics.",
+      "createdAt": "2024-09-08T12:00:00.000Z",
+      "course": 3
+    },
+    {
+      "id": 4,
+      "title": "Modern Literature Syllabus",
+      "content": "Welcome to Modern Literature! Here is your syllabus.",
+      "createdAt": "2024-09-08T13:00:00.000Z",
+      "course": 4
+    },
+    {
+      "id": 5,
+      "title": "Week 1: Introduction to Algorithms",
+      "content": "This week, we will cover the basics of algorithms.",
+      "createdAt": "2024-09-09T09:00:00.000Z",
+      "course": 1
+    },
+    {
+      "id": 6,
+      "title": "Week 2: Calculus Review",
+      "content": "Let's review calculus concepts for our next topics.",
+      "createdAt": "2024-09-10T09:00:00.000Z",
+      "course": 2
+    },
+    {
+      "id": 7,
+      "title": "Week 3: Quantum Mechanics",
+      "content": "Dive into quantum mechanics with these materials.",
+      "createdAt": "2024-09-11T09:00:00.000Z",
+      "course": 3
+    },
+    {
+      "id": 8,
+      "title": "Week 4: 20th Century Poetry",
+      "content": "Explore 20th-century poetry in this week's class.",
+      "createdAt": "2024-09-12T09:00:00.000Z",
+      "course": 4
+    }
+  ]
+}
