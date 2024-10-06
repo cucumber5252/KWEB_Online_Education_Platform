@@ -8,7 +8,7 @@
 2024.09.08
 
 ## 주요 스택
-- 프론트엔드: **React.j**
+- 프론트엔드: **React**
 - HTTP 클라이언트: Axios
 - 라우팅: React Router
 - 스타일링: Styled-components
