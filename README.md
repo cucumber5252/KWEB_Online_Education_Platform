@@ -8,15 +8,15 @@
 2024.09.08
 
 ## 주요 스택
-프론트엔드: React.js
-HTTP 클라이언트: Axios
-라우팅: React Router
-스타일링: Styled-components
+- 프론트엔드: React.js
+- HTTP 클라이언트: Axios
+- 라우팅: React Router
+- 스타일링: Styled-components
 
-백엔드: Node.js (NestJS)
-데이터베이스: PostgreSQL
-ORM: TypeORM
-인증: JWT (JSON Web Token)
+- 백엔드: Node.js (NestJS)
+- 데이터베이스: PostgreSQL
+- ORM: TypeORM
+- 인증: JWT (JSON Web Token)
 
 ## 문의
 
