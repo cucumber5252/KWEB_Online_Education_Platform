@@ -3,16 +3,23 @@
 ## 상세 설명
 고려대학교 정보대학 웹개발 동아리 KWEB 활동 기간 내부 테스트를 위해 24시간 동안 구현한 Online Education Platform 데모 버전입니다.
 
-
 ## 개발 기간
 
-2024.09.??
-
+2024.09.08
 
 ## 주요 스택
+프론트엔드: React.js
+HTTP 클라이언트: Axios
+라우팅: React Router
+스타일링: Styled-components
 
-React, Socket.io
+백엔드: Node.js (NestJS)
+데이터베이스: PostgreSQL
+ORM: TypeORM
+인증: JWT (JSON Web Token)
 
-![login](https://github.com/user-attachments/assets/b6818bb1-13d6-4c4d-99ba-fcbe3dcf9752)
-![profile](https://github.com/user-attachments/assets/35dc8a4a-0340-40fb-9921-f7d7d162e48a)
-![iPhone SE - 2](https://github.com/user-attachments/assets/258aa891-c2ef-417f-915b-b5813754a4cc)
+## 문의
+
+프로젝트 관련 문의는 GitHub를 통해 해주시면 감사하겠습니다.
+
+-   GitHub: [cucumber5252](https://github.com/cucumber5252)
